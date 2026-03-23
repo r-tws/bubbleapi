@@ -12,14 +12,14 @@ speechmeme.com-like API (https://speechmeme.com/)
 
 ## example (curl)
 ```bash
-curl -X POST -F "image=@file.png" [https://p6.skin/bubbleapi/index.php](https://p6.skin/bubbleapi/index.php)
+curl -X POST -F "image=@file.png" https://p6.skin/bubbleapi/index.php
 ```
 
 ## response
 ```json
 {
   "status": "success",
-  "url": "[https://p6.skin/bubbleapi/a/checkmark_69c193ebd9c05.gif](https://p6.skin/bubbleapi/a/checkmark_69c193ebd9c05.gif)"
+  "url": "https://p6.skin/bubbleapi/a/u_69c193ebd9c05.gif"
 }
 ```
 
