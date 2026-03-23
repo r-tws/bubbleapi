@@ -1,6 +1,6 @@
 # bubble api
 
-speechmeme.com-like site (https://speechmeme.com/)
+speechmeme.com-like API (https://speechmeme.com/)
 
 ## endpoint
 `post /index.php`
